@@ -1,0 +1,19 @@
+{
+  "name": "fantasymix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -e json, js, graphql"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.1",
+    "graphql": "^15.4.0",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
